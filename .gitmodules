@@ -1,0 +1,3 @@
+[submodule "versions"]
+	path = versions
+	url = git@github.com:artyommironov/versions.git
